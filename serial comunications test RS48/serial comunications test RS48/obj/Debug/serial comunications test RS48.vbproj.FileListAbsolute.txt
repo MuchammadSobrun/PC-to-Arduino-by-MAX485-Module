@@ -1,0 +1,11 @@
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\bin\Debug\serial comunications test RS48.exe.config
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\bin\Debug\serial comunications test RS48.exe
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\bin\Debug\serial comunications test RS48.pdb
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\bin\Debug\serial comunications test RS48.xml
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\obj\Debug\serial comunications test RS48.vbprojResolveAssemblyReference.cache
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\obj\Debug\serial_comunications_test_RS48.Form1.resources
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\obj\Debug\serial_comunications_test_RS48.Resources.resources
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\obj\Debug\serial comunications test RS48.vbproj.GenerateResource.Cache
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\obj\Debug\serial comunications test RS48.exe
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\obj\Debug\serial comunications test RS48.xml
+E:\CT Asia Robotics Co.,Ltd\Poject in Indonesia\serial comunications test RS48\serial comunications test RS48\obj\Debug\serial comunications test RS48.pdb
