@@ -12,3 +12,6 @@ Material:
 Software:
 - Visual studio 2015 (Vb.net)
 - Arduino IDE
+
+Arduino Library:
+- SoftwareSerial.h
